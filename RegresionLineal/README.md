@@ -2,7 +2,7 @@
 
 En este código se implementa el algoritmo de regresión lineal que funciona para cualquier conjunto de datos obtenidos. El algoritmo se encarga de obtener la recta más cercana a todos los puntos.
 
-En este código se utilizan las librerías matplotlib y numpy, por lo que el proceso de cálculo se facilita y es posible graficar los resultados para observar el comportamiento del algoritmo
+Además se utilizan las librerías matplotlib y numpy, por lo que el proceso de cálculo se facilita y es posible graficar los resultados para observar el comportamiento del algoritmo
 
 ![Imagen resultado](https://github.com/lalodsi/Platzi-Datacademy-projects/blob/main/Sources/RegresionLinealRecta.png)
 
